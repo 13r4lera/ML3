@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# backup notebook files
+*-checkpoint.ipynb
